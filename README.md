@@ -1,3 +1,5 @@
+# Backend
+
 Создать проект
 
 > django-admin startproject todoapp
@@ -27,3 +29,14 @@
 Создания супер пользвоателя (кастомный вариант)
 
 > python manage.py create_super_puper_user
+
+# Frontend
+
+Создать проект
+
+> npx create-react-app frontend
+
+Запустить сервер
+
+> npm start
+
