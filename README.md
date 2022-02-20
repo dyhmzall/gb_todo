@@ -30,13 +30,29 @@
 
 > python manage.py create_super_puper_user
 
+Установить пакет через pip
+
+> pip install django-cors-headers
+
+Сохранить список установленных пакетов
+
+> pip freeze > requirements.txt
+
 # Frontend
 
 Создать проект
 
 > npx create-react-app frontend
 
+Установить зависимости (в первый раз)
+
+> npm install
+
 Запустить сервер
 
 > npm start
+
+Установить дополнительную библиотеку
+
+> npm install axios
 
