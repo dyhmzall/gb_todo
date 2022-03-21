@@ -38,6 +38,10 @@
 
 > pip freeze > requirements.txt
 
+Установить все пакеты из файла
+
+> pip install -r .\requirements.txt
+
 # Frontend
 
 Создать проект
